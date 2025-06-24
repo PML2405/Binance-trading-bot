@@ -1,6 +1,6 @@
 # --- Python ---
 # Byte-compiled / optimized / C extensions
-__pycache__/
+__pycache__
 *.pyc
 *.pyo
 *.pyd
