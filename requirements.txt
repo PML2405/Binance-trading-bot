@@ -1,0 +1,6 @@
+# Core library for interacting with the Binance API
+python-binance>=1.0.20
+
+# Standard libraries for data analysis and manipulation in trading applications
+pandas
+numpy

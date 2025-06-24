@@ -1,1 +1,19 @@
+# --- Python ---
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Configuration & Secrets ---
+# MUST ignore the file with API keys
 config.py
+
+
+# --- Logs & Artifacts ---
+# Ignore all log files
+*.log
+*.log.*
+
+
+
