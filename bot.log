@@ -1,0 +1,29 @@
+2025-06-23 22:01:08,922 - INFO - Bot initialized and connected to Binance Futures Testnet.
+2025-06-23 22:02:08,926 - INFO - Bot initialized and connected to Binance Futures Testnet.
+2025-06-24 17:32:59,912 - INFO - Bot initialized and connected to Binance Futures Testnet.
+2025-06-24 17:33:26,619 - INFO - Attempting to place a BUY MARKET order for 0.001 of BTCUSDT.
+2025-06-24 17:33:27,702 - INFO - Successfully placed order:
+2025-06-24 17:33:27,702 - INFO - {'orderId': 4688237140, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ6f6ee2288694c26a647947', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750766607657}
+2025-06-24 17:33:44,757 - INFO - Bot initialized and connected to Binance Futures Testnet.
+2025-06-24 17:33:58,474 - INFO - Attempting to place a SELL MARKET order for 0.001 of BTCUSDT.
+2025-06-24 17:33:58,879 - INFO - Successfully placed order:
+2025-06-24 17:33:58,879 - INFO - {'orderId': 4688261982, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJf90c57cf467d81cc4344d8', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750766638838}
+2025-06-24 17:34:59,020 - INFO - Bot initialized and connected to Binance Futures Testnet.
+2025-06-24 17:35:17,077 - INFO - Attempting to place a BUY MARKET order for 0.001 of BTCUSDT.
+2025-06-24 17:35:17,822 - INFO - Successfully placed order:
+2025-06-24 17:35:17,822 - INFO - {'orderId': 4688315737, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJb269737ebca75afcfc91a3', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750766717798}
+2025-06-24 17:38:55,928 - INFO - Bot initialized and connected to Binance Futures Testnet.
+2025-06-24 17:41:20,517 - INFO - Attempting to place a SELL LIMIT order for 0.001 of BTCUSDT.
+2025-06-24 17:41:21,585 - ERROR - Binance API Error: 400 - Price not increased by tick size.
+2025-06-24 17:43:10,908 - INFO - Bot initialized and connected to Binance Futures Testnet.
+2025-06-24 17:43:38,873 - INFO - Attempting to place a SELL LIMIT order for 0.001 of BTCUSDT.
+2025-06-24 17:43:39,465 - INFO - Successfully placed order:
+2025-06-24 17:43:39,465 - INFO - {'orderId': 4688684029, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ172abdb2a4781044e47116', 'price': '105230.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750767219498}
+2025-06-24 17:47:39,861 - INFO - Bot initialized and connected to Binance Futures Testnet.
+2025-06-24 17:47:58,724 - INFO - Attempting to place a BUY MARKET order for 0.01 of BTCUSDT.
+2025-06-24 17:47:59,510 - INFO - Successfully placed order:
+2025-06-24 17:47:59,510 - INFO - {'orderId': 4688872283, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ408be32e0e6437d6d75a2', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750767479546}
+2025-06-24 17:48:04,298 - INFO - Bot initialized and connected to Binance Futures Testnet.
+2025-06-24 17:49:30,069 - INFO - Attempting to place a SELL LIMIT order for 0.01 of BTCUSDT.
+2025-06-24 17:49:31,302 - INFO - Successfully placed order:
+2025-06-24 17:49:31,303 - INFO - {'orderId': 4688937034, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ800160b1a04e90dbdd6bb6', 'price': '105250.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750767571201}
